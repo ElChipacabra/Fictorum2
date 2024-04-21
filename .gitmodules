@@ -1,3 +1,3 @@
-[submodule "Plugins/ChipUtlities"]
-	path = Plugins/ChipUtlities
+[submodule "Plugins/Plugins/ChipUtilities"]
+	path = Plugins/Plugins/ChipUtilities
 	url = https://github.com/ElChipacabra/ChipUtilities
