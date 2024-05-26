@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.8",
+	"FriendlyName": "WorldDirectorNPC",
+	"Description": "World Director NPC",
+	"Category": "Fly Dream Dev",
+	"CreatedBy": "Fly Dream Dev",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1NBaqUIFHW19zXC05BFgKYgXgX59tRuCuHK_STmuoJCg/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/17d7580745654f26bf4d2441c9128b17",
+	"SupportURL": "https://discord.gg/DN4PhbmShg",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "WorldDirectorNPC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Mac",
+				"IOS",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
